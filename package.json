@@ -1,11 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hong L.",
+	"description": "A project that helps learn back end development",
+	"keywords": ["freecodecamp", "back end development", "APIs"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"scripts": {
+	"scripts": { 
 		"start": "node server.js"
 	},
 	"repository": {
